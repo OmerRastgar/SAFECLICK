@@ -18,7 +18,7 @@ class ColorChangeApp(QMainWindow):
         self.setWindowIcon(QIcon('malicious.png'))
         # set the title
        
-        self.setWindowTitle('FATIMA: Friendly App for Tracking Internet Mischievous Activities')
+        self.setWindowTitle('SAFECLICK: Secure Analysis for Filtering, Evaluation, and Click Safety')
         self.setGeometry(100, 100, 800, 200)
 
         self.central_widget = QWidget(self)
